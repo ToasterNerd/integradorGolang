@@ -1,3 +1,3 @@
-module jpr230697.com
+module github.com/ToasterNerd/integradorGolang
 
 go 1.18

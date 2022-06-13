@@ -3,8 +3,8 @@ package avatar
 import (
 	"log"
 
-	pkgEncoder "jpr230697.com/avatar/encoder"
-	pkgImages "jpr230697.com/avatar/images"
+	pkgEncoder "github.com/ToasterNerd/integradorGolang/avatar/encoder"
+	pkgImages "github.com/ToasterNerd/integradorGolang/avatar/images"
 )
 
 //interfaz publica porque se va a exportar el pkg para que se use en otro lado
