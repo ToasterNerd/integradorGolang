@@ -2,7 +2,7 @@
 Este proyecto es el integrador resultado de la primera parte de un curso de golang APIRest. Este modulo genera un avatar mediante un input. Este input es hasheado y mediante algún algoritmo se le asigna dicho avatar. El avatar es una imagen .jpg que se extrae de una API.
 
 ## Uso del modulo
-En la terminal se su ide deben colocar la siguiente línea para obtener la ultima versión del módlo
+En la terminal se su IDE deben colocar la siguiente línea para obtener la ultima versión del módlo
 ```
 go get github.com/ToasterNerd/integradorGolang/avatar@latest
 ```
